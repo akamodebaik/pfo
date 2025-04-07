@@ -1,0 +1,257 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "aka",
+      "password": "e89f4a97eb3c56cc484260fe8e2c916e7406bc65d5cb4593dadfe7697ae6b5f1e1d0cc96baf36f6ead0e612c22d2fe2daaf91b0edd1d2ad0215227c2ea614c3c.3af6fe31af0edb6f"
+    }
+  ],
+  "bio": {
+    "id": 1,
+    "name": "Aka",
+    "title": "Web Developer & UI/UX Designer",
+    "location": "West Sumatra, Indonesia",
+    "shortDescription": "Passionate developer creating elegant solutions with modern technologies",
+    "longDescription": "I'm a passionate web developer from West Sumatra, Indonesia with expertise in creating beautiful and functional websites. I specialize in JavaScript frameworks like React and Next.js, and always strive to create the best user experience possible.",
+    "education": "Computer Science - University of Indonesia, 2018-2022",
+    "experience": "3+ years of professional web development experience",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+    "workspaceImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+    "email": "aka@example.com",
+    "phone": "+62 812 3456 7890",
+    "language": "en"
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "JavaScript",
+      "icon": "js",
+      "category": "Frontend"
+    },
+    {
+      "id": 2,
+      "name": "React",
+      "icon": "react",
+      "category": "Frontend"
+    },
+    {
+      "id": 3,
+      "name": "Next.js",
+      "icon": "next",
+      "category": "Frontend"
+    },
+    {
+      "id": 4,
+      "name": "TypeScript",
+      "icon": "ts",
+      "category": "Frontend"
+    },
+    {
+      "id": 5,
+      "name": "TailwindCSS",
+      "icon": "tailwind",
+      "category": "Frontend"
+    },
+    {
+      "id": 6,
+      "name": "Node.js",
+      "icon": "node",
+      "category": "Backend"
+    },
+    {
+      "id": 7,
+      "name": "Express",
+      "icon": "express",
+      "category": "Backend"
+    },
+    {
+      "id": 8,
+      "name": "MongoDB",
+      "icon": "mongodb",
+      "category": "Backend"
+    },
+    {
+      "id": 9,
+      "name": "Git",
+      "icon": "git",
+      "category": "Tools"
+    },
+    {
+      "id": 10,
+      "name": "Figma",
+      "icon": "figma",
+      "category": "Design"
+    }
+  ],
+  "interests": [
+    {
+      "id": 1,
+      "name": "Web Development",
+      "icon": "code"
+    },
+    {
+      "id": 2,
+      "name": "UI/UX Design",
+      "icon": "palette"
+    },
+    {
+      "id": 3,
+      "name": "Photography",
+      "icon": "camera"
+    },
+    {
+      "id": 4,
+      "name": "Music",
+      "icon": "music"
+    },
+    {
+      "id": 5,
+      "name": "Travel",
+      "icon": "map"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Modern Portfolio Website",
+      "description": "A sophisticated portfolio website built with Next.js, TailwindCSS, and Framer Motion featuring smooth animations and a premium feel.",
+      "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d",
+      "tags": ["Next.js", "TailwindCSS", "Framer Motion"],
+      "demoLink": "https://akadev.my.id",
+      "sourceLink": "https://github.com/aka/portfolio",
+      "featured": true,
+      "category": "Web Development",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "E-Commerce Dashboard",
+      "description": "A comprehensive admin dashboard for e-commerce stores with real-time analytics, inventory management, and order processing.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "tags": ["React", "Redux", "Material UI", "Node.js"],
+      "demoLink": "https://ecommerce-dashboard.akadev.my.id",
+      "sourceLink": "https://github.com/aka/ecommerce-dashboard",
+      "featured": true,
+      "category": "Web Development",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Weather App",
+      "description": "A beautiful weather application that shows current and forecast weather data with sleek visualizations and location-based services.",
+      "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b",
+      "tags": ["JavaScript", "React", "Weather API", "CSS3"],
+      "demoLink": "https://weather.akadev.my.id",
+      "sourceLink": "https://github.com/aka/weather-app",
+      "featured": false,
+      "category": "Web Development",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Task Management App",
+      "description": "A productivity application for managing tasks, projects, and deadlines with collaboration features and progress tracking.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b",
+      "tags": ["React", "Firebase", "Redux", "Styled Components"],
+      "demoLink": "https://tasks.akadev.my.id",
+      "sourceLink": "https://github.com/aka/task-manager",
+      "featured": true,
+      "category": "Web Development",
+      "order": 4
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "role": "UI/UX Designer",
+      "description": "A talented designer with a keen eye for detail and user experience. We've collaborated on multiple projects together.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "githubLink": "https://github.com/sarahjohnson",
+      "linkedinLink": "https://linkedin.com/in/sarahjohnson",
+      "websiteLink": "https://sarahjohnson.design",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "role": "Full Stack Developer",
+      "description": "A brilliant developer who specializes in scalable backend solutions and clean frontend code. A great teammate and problem-solver.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "githubLink": "https://github.com/michaelchen",
+      "linkedinLink": "https://linkedin.com/in/michaelchen",
+      "websiteLink": null,
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Emma Williams",
+      "role": "Product Manager",
+      "description": "An exceptional product manager who bridges the gap between business needs and technical implementation. Great communicator and strategist.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+      "githubLink": null,
+      "linkedinLink": "https://linkedin.com/in/emmawilliams",
+      "websiteLink": "https://emmawilliams.me",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "role": "Backend Developer",
+      "description": "A database expert and algorithm wizard. Always delivers robust and optimized solutions for complex problems.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "githubLink": "https://github.com/davidkim",
+      "linkedinLink": "https://linkedin.com/in/davidkim",
+      "websiteLink": null,
+      "order": 4
+    }
+  ],
+  "updates": [
+    {
+      "id": 1,
+      "title": "Portfolio Website Launch",
+      "description": "Excited to announce the launch of my new portfolio website built with Next.js and TailwindCSS. Check it out and let me know what you think!",
+      "date": "2023-04-15",
+      "category": "Project",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "title": "New Role at TechCorp",
+      "description": "I've joined TechCorp as a Senior Front-end Developer! Looking forward to creating amazing web experiences with an incredible team.",
+      "date": "2023-02-10",
+      "category": "Career",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "title": "React Conference Speaker",
+      "description": "Honored to be selected as a speaker at the upcoming React Conference. My talk will focus on optimizing performance in large React applications.",
+      "date": "2023-01-05",
+      "category": "Event",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "title": "Open Source Contribution",
+      "description": "My pull request to improve accessibility in a popular React component library was merged! Proud to contribute to making the web more inclusive.",
+      "date": "2022-11-20",
+      "category": "Development",
+      "order": 4
+    }
+  ],
+  "settings": {
+    "id": 1,
+    "musicFile": "/assets/background-music.mp3",
+    "musicTitle": "Ethereal Dreams - Ambient Melody",
+    "themePrimary": "#d4af37",
+    "themeVariant": "professional",
+    "loadingPhrases": [
+      "Brewing some code magic...",
+      "Polishing pixels to perfection...",
+      "Crafting digital experiences...",
+      "Preparing a showcase of creativity...",
+      "Optimizing for your viewing pleasure..."
+    ]
+  }
+}
