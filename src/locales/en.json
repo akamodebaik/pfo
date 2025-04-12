@@ -1,0 +1,104 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "initialLoading": "bntr loading dulu 🙂",
+    "secondaryLoading": "loading dulu :)",
+    "welcomePopup": "Welcome to Aka's website, not that great, still a beginner 😅",
+    "emailSuccess": "Message sent successfully!",
+    "emailError": "Failed to send message. Please try again.",
+    "downloadCV": "Download CV",
+    "viewProject": "View Project",
+    "readMore": "Read More",
+    "close": "Close",
+    "login": "Login",
+    "logout": "Logout",
+    "admin": "Admin",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "sending": "Sending...",
+    "submit": "Submit",
+    "madeWith": "This website was made with ❤️ by Aka"
+  },
+  "nav": {
+    "home": "Home",
+    "social": "Social Media",
+    "friends": "My Friends",
+    "projects": "My Projects",
+    "updates": "Updates",
+    "more": "More"
+  },
+  "home": {
+    "greeting": "Hello, I'm",
+    "age": "Age",
+    "location": "Location",
+    "school": "School"
+  },
+  "social": {
+    "title": "Connect With Me",
+    "subtitle": "Find me on various platforms"
+  },
+  "friends": {
+    "title": "My Friends",
+    "subtitle": "Amazing people I collaborate with"
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Here are some projects I've been working on"
+  },
+  "updates": {
+    "title": "Latest Updates",
+    "subtitle": "What's new on my portfolio"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Feel free to send me a message",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Your Email",
+    "emailPlaceholder": "Enter your email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Type your message here"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "login": "Admin Login",
+    "welcomeBack": "Welcome back",
+    "welcomeMessage": "Welcome back,",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "loginError": "Invalid username or password",
+    "profile": "Profile",
+    "projects": "Projects",
+    "social": "Social Media",
+    "friends": "Friends",
+    "updates": "Updates",
+    "settings": "Settings",
+    "navigation": "Navigation",
+    "editProfile": "Edit Profile Information",
+    "editProjects": "Manage Projects",
+    "editSocial": "Edit Social Media Links",
+    "editFriends": "Manage Friends List",
+    "editUpdates": "Manage Site Updates",
+    "totalVisitors": "Total Visitors",
+    "totalProjects": "Total Projects",
+    "lastVisited": "Last Visitor",
+    "neverVisited": "No visitors yet",
+    "quickTips": "Quick Tips",
+    "tipContent": "Changes are automatically saved to the database. Make sure to fill in all required fields for best results.",
+    "scrollHorizontally": "Scroll horizontally to see more"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "eyeComfort": "Eye Comfort Mode",
+    "eyeComfortOn": "On",
+    "eyeComfortOff": "Off",
+    "audio": "Background Music"
+  }
+}

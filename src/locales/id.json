@@ -1,0 +1,104 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "initialLoading": "bntr loading dulu 🙂",
+    "secondaryLoading": "loading dulu :)",
+    "welcomePopup": "Selamat datang di web Aka, gaa bagus amat, msih pemula 😅",
+    "emailSuccess": "Pesan berhasil dikirim!",
+    "emailError": "Gagal mengirim pesan. Silakan coba lagi.",
+    "downloadCV": "Unduh CV",
+    "viewProject": "Lihat Proyek",
+    "readMore": "Baca Selengkapnya",
+    "close": "Tutup",
+    "login": "Masuk",
+    "logout": "Keluar",
+    "admin": "Admin",
+    "save": "Simpan",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "cancel": "Batal",
+    "sending": "Mengirim...",
+    "submit": "Kirim",
+    "madeWith": "Website ini dibuat dengan ❤️ oleh Aka"
+  },
+  "nav": {
+    "home": "Beranda",
+    "social": "Media Sosial",
+    "friends": "Teman-teman",
+    "projects": "Proyek Saya",
+    "updates": "Pembaruan",
+    "more": "Lainnya"
+  },
+  "home": {
+    "greeting": "Halo, Saya",
+    "age": "Umur",
+    "location": "Lokasi",
+    "school": "Sekolah"
+  },
+  "social": {
+    "title": "Terhubung Dengan Saya",
+    "subtitle": "Temukan saya di berbagai platform"
+  },
+  "friends": {
+    "title": "Teman-teman Saya",
+    "subtitle": "Orang-orang luar biasa yang saya ajak berkolaborasi"
+  },
+  "projects": {
+    "title": "Proyek Saya",
+    "subtitle": "Berikut beberapa proyek yang telah saya kerjakan"
+  },
+  "updates": {
+    "title": "Pembaruan Terbaru",
+    "subtitle": "Apa yang baru di portfolio saya"
+  },
+  "contact": {
+    "title": "Hubungi Saya",
+    "subtitle": "Jangan ragu untuk mengirim pesan",
+    "nameLabel": "Nama Anda",
+    "namePlaceholder": "Masukkan nama Anda",
+    "emailLabel": "Email Anda",
+    "emailPlaceholder": "Masukkan email Anda",
+    "messageLabel": "Pesan",
+    "messagePlaceholder": "Ketik pesan Anda di sini"
+  },
+  "admin": {
+    "title": "Dashboard Admin",
+    "login": "Login Admin",
+    "welcomeBack": "Selamat datang kembali",
+    "welcomeMessage": "Selamat datang kembali,",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Masuk",
+    "loginError": "Username atau password salah",
+    "profile": "Profil",
+    "projects": "Proyek",
+    "social": "Media Sosial",
+    "friends": "Teman",
+    "updates": "Pembaruan",
+    "settings": "Pengaturan",
+    "navigation": "Navigasi",
+    "editProfile": "Edit Informasi Profil",
+    "editProjects": "Kelola Proyek",
+    "editSocial": "Edit Link Media Sosial",
+    "editFriends": "Kelola Daftar Teman",
+    "editUpdates": "Kelola Pembaruan Situs",
+    "totalVisitors": "Total Pengunjung",
+    "totalProjects": "Total Proyek",
+    "lastVisited": "Pengunjung Terakhir",
+    "neverVisited": "Belum ada pengunjung",
+    "quickTips": "Tips Cepat",
+    "tipContent": "Perubahan otomatis disimpan ke database. Pastikan untuk mengisi semua kolom yang diperlukan untuk hasil terbaik.",
+    "scrollHorizontally": "Scroll horizontal untuk melihat lebih banyak"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "language": "Bahasa",
+    "theme": "Tema",
+    "light": "Mode Terang",
+    "dark": "Mode Gelap",
+    "eyeComfort": "Mode Kenyamanan Mata",
+    "eyeComfortOn": "Aktif",
+    "eyeComfortOff": "Nonaktif",
+    "audio": "Musik Latar"
+  }
+}

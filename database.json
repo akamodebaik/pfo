@@ -1,0 +1,277 @@
+{
+  "profile": {
+    "name": "Aka",
+    "fullName": "Akamaru D. Developer",
+    "birthdate": "2000-06-15",
+    "location": "Jakarta, Indonesia",
+    "school": "University of Coding Excellence",
+    "bio": {
+      "en": "Passionate developer focused on creating innovative solutions through clean code and modern technologies. I specialize in web development, bot creation, and digital experiences.",
+      "id": "Developer bersemangat yang fokus menciptakan solusi inovatif melalui kode yang bersih dan teknologi modern. Saya mengkhususkan diri dalam pengembangan web, pembuatan bot, dan pengalaman digital."
+    },
+    "avatar": "https://images.unsplash.com/photo-1503235930437-8c6293ba41f5",
+    "roles": [
+      "Junior Developer",
+      "Student",
+      "Bot Creator"
+    ],
+    "cv": {
+      "en": "/cv/Aka_CV_EN.pdf",
+      "id": "/cv/Aka_CV_ID.pdf"
+    }
+  },
+  "social": [
+    {
+      "name": "WhatsApp",
+      "url": "https://wa.me/6281234567890",
+      "icon": "whatsapp",
+      "color": "#25D366"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://tiktok.com/@akadev",
+      "icon": "tiktok",
+      "color": "#000000"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/@akadev",
+      "icon": "youtube",
+      "color": "#FF0000"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/akadev",
+      "icon": "github",
+      "color": "#181717"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/akadev",
+      "icon": "instagram",
+      "color": "#E4405F"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/akadev",
+      "icon": "telegram",
+      "color": "#26A5E4"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/users/akadev",
+      "icon": "discord",
+      "color": "#5865F2"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/akadev",
+      "icon": "linkedin",
+      "color": "#0A66C2"
+    }
+  ],
+  "friends": [
+    {
+      "name": "Donn Gabriel",
+      "avatar": "https://images.unsplash.com/photo-1503235930437-8c6293ba41f5",
+      "github": "https://github.com/donngabriel",
+      "role": "Senior Frontend Developer"
+    },
+    {
+      "name": "Oladimeji",
+      "avatar": "https://images.unsplash.com/photo-1499557354967-2b2d8910bcca",
+      "github": "https://github.com/oladimeji",
+      "role": "UI/UX Designer"
+    },
+    {
+      "name": "Brooke C",
+      "avatar": "https://images.unsplash.com/photo-1502323777036-f29e3972d82f",
+      "github": "https://github.com/brookec",
+      "role": "Full Stack Developer"
+    },
+    {
+      "name": "Gift H",
+      "avatar": "https://images.unsplash.com/photo-1533636721434-0e2d61030955",
+      "github": "https://github.com/gifth",
+      "role": "Backend Developer"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Minimalist Chat App",
+      "description": {
+        "en": "A real-time chat application with minimalist design and end-to-end encryption.",
+        "id": "Aplikasi chat real-time dengan desain minimalis dan enkripsi end-to-end."
+      },
+      "image": "https://images.unsplash.com/photo-1471086569966-db3eebc25a59",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Socket.io",
+        "Tailwind CSS"
+      ],
+      "url": "https://minimalchat.vercel.app",
+      "github": "https://github.com/akadev/minimal-chat"
+    },
+    {
+      "id": 2,
+      "name": "Portfolio Generator",
+      "description": {
+        "en": "A tool that generates professional developer portfolios with just a few clicks.",
+        "id": "Alat yang menghasilkan portfolio developer profesional hanya dengan beberapa klik."
+      },
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+      "technologies": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript"
+      ],
+      "url": "https://portfolio-gen.vercel.app",
+      "github": "https://github.com/akadev/portfolio-gen"
+    },
+    {
+      "id": 3,
+      "name": "Discord Bot Framework",
+      "description": {
+        "en": "A comprehensive framework for creating powerful Discord bots easily.",
+        "id": "Framework komprehensif untuk membuat bot Discord dengan mudah."
+      },
+      "image": "https://images.unsplash.com/photo-1502743780242-f10d2ce370f3",
+      "technologies": [
+        "Node.js",
+        "Discord.js",
+        "MongoDB",
+        "TypeScript"
+      ],
+      "url": "https://discord-botframework.vercel.app",
+      "github": "https://github.com/akadev/discord-bot-framework"
+    },
+    {
+      "id": 4,
+      "name": "Weather Dashboard",
+      "description": {
+        "en": "A beautiful weather dashboard with animated visualizations and forecasts.",
+        "id": "Dashboard cuaca yang indah dengan visualisasi animasi dan prakiraan."
+      },
+      "image": "https://images.unsplash.com/photo-1531736275454-adc48d079ce9",
+      "technologies": [
+        "Vue.js",
+        "D3.js",
+        "OpenWeatherMap API"
+      ],
+      "url": "https://weather-viz.vercel.app",
+      "github": "https://github.com/akadev/weather-viz"
+    },
+    {
+      "id": 5,
+      "name": "Study Timer",
+      "description": {
+        "en": "A pomodoro timer app designed for students with task tracking features.",
+        "id": "Aplikasi timer pomodoro yang dirancang untuk siswa dengan fitur pelacakan tugas."
+      },
+      "image": "https://images.unsplash.com/photo-1494185728463-86366f396213",
+      "technologies": [
+        "React Native",
+        "Redux",
+        "AsyncStorage"
+      ],
+      "url": "https://study-timer-app.vercel.app",
+      "github": "https://github.com/akadev/study-timer"
+    },
+    {
+      "id": 6,
+      "name": "Code Snippets",
+      "description": {
+        "en": "A platform for developers to share and discover useful code snippets.",
+        "id": "Platform bagi developer untuk berbagi dan menemukan snippet kode yang berguna."
+      },
+      "image": "https://images.unsplash.com/photo-1422190441165-ec2956dc9ecc",
+      "technologies": [
+        "Next.js",
+        "Prisma",
+        "PostgreSQL",
+        "CodeMirror"
+      ],
+      "url": "https://codesnips.vercel.app",
+      "github": "https://github.com/akadev/codesnips"
+    }
+  ],
+  "updates": [
+    {
+      "date": "2023-07-10",
+      "title": {
+        "en": "Website Launch",
+        "id": "Peluncuran Website"
+      },
+      "description": {
+        "en": "Launched my personal portfolio website with dark and light themes.",
+        "id": "Meluncurkan website portfolio pribadi saya dengan tema gelap dan terang."
+      }
+    },
+    {
+      "date": "2023-08-15",
+      "title": {
+        "en": "Multi-language Support",
+        "id": "Dukungan Multi-bahasa"
+      },
+      "description": {
+        "en": "Added Indonesian language support to make the site more accessible.",
+        "id": "Menambahkan dukungan bahasa Indonesia untuk membuat situs lebih mudah diakses."
+      }
+    },
+    {
+      "date": "2023-09-05",
+      "title": {
+        "en": "Admin Dashboard",
+        "id": "Dashboard Admin"
+      },
+      "description": {
+        "en": "Created an admin dashboard for easy content management.",
+        "id": "Membuat dashboard admin untuk manajemen konten yang mudah."
+      }
+    },
+    {
+      "date": "2023-10-20",
+      "title": {
+        "en": "New Projects",
+        "id": "Proyek Baru"
+      },
+      "description": {
+        "en": "Added two new projects to the portfolio showcase.",
+        "id": "Menambahkan dua proyek baru ke portofolio."
+      }
+    },
+    {
+      "date": "2023-11-13",
+      "title": {
+        "en": "UI Improvements",
+        "id": "Peningkatan UI"
+      },
+      "description": {
+        "en": "Enhanced user interface with new animations and transitions.",
+        "id": "Meningkatkan antarmuka pengguna dengan animasi dan transisi baru."
+      }
+    }
+  ],
+  "donations": [
+    {
+      "name": "Saweria",
+      "url": "https://saweria.co/akadev",
+      "icon": "saweria"
+    },
+    {
+      "name": "Trakteer",
+      "url": "https://trakteer.id/akadev",
+      "icon": "trakteer"
+    }
+  ],
+  "admin": {
+    "username": "admin",
+    "password": "akadmin2023"
+  },
+  "stats": {
+    "visitors": 40,
+    "lastVisited": "2025-04-11T18:56:59.611Z"
+  }
+}
