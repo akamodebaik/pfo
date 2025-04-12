@@ -19,6 +19,9 @@ const nextConfig = {
         pathname: '**',
       }
     ],
+    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
+    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
+    formats: ['image/webp'],
   },
   // App Router internationalization is handled differently than Pages Router
   // Remove the i18n config and implement App Router internationalization

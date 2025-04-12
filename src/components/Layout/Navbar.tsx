@@ -52,6 +52,8 @@ export default function Navbar() {
               width={40}
               height={40}
               className="mr-2"
+              sizes="40px"
+              priority
             />
             <span className="font-bold text-xl text-light-text dark:text-dark-text">
               Aka
